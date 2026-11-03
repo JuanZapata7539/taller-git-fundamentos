@@ -5,3 +5,6 @@ Este es mi primer repositorio utilizando Git y GitHub.
 Estoy aprendiendo a controlar versiones de mis proyectos
 
 Estoy aprendiendo a trabajar con ramas en Git.
+
+El objetivo de este repositorio es practicar los fundamentos de Git y GitHub, incluyendo commits, ramas, fusiones, conflictos e integración de cambios.
+
