@@ -1,0 +1,5 @@
+Hola, soy estudiante de Ingenieria en Sistemas.
+
+Este es mi primer repositorio utilizando Git y GitHub.
+
+Estoy aprendiendo a controlar versiones de mis proyectos
