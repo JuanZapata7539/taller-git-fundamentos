@@ -1,4 +1,4 @@
-Hola, soy Juan y estoy aprendiendo Git desde la rama azul.
+Hola, soy Juan y estoy aprendiendo Git desde las ramas azul y roja.
 
 Este es mi primer repositorio utilizando Git y GitHub.
 
