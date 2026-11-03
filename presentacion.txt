@@ -1,4 +1,4 @@
-Hola, soy estudiante de Ingenieria en Sistemas.
+Hola, soy Juan y estoy aprendiendo Git desde la rama azul.
 
 Este es mi primer repositorio utilizando Git y GitHub.
 
